@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\MovieKun\lovii\app\build\intermediates\exploded-aar\com.ogaclejapan.smarttablayout\library\1.6.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="773103b47908c3026873309dd5d968b7fc6556eb">
+        <dex dex="D:\MovieKun\lovii\app\build\intermediates\pre-dexed\debug\com.ogaclejapan.smarttablayout-library-1.6.0_9948470ce4073225fe347f97d085a488dbf0c067.jar" />
+    </item>
+    <item
+        jar="D:\MovieKun\lovii\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\MovieKun\lovii\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_f406abc85717d915fa96385d7e90c7b052850283.jar" />
+    </item>
+    <item
+        jar="D:\MovieKun\lovii\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="D:\MovieKun\lovii\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_11774e1db6e1bdf19b7f798cc1965ba4dfe220c5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lovi Handoko\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="D:\MovieKun\lovii\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0_7e2ef1f5daba09690bb6e9ad16e779fd68760381.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lovi Handoko\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\MovieKun\lovii\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_5cc99973a07ccbfcd5f4d2b86c03fd848b355e97.jar" />
+    </item>
+    <item
+        jar="D:\MovieKun\lovii\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\MovieKun\lovii\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_0af3e41595f4affac68cb268ba8b6c78c35ff61d.jar" />
+    </item>
+    <item
+        jar="D:\MovieKun\lovii\app\build\intermediates\exploded-aar\com.ogaclejapan.smarttablayout\utils-v4\1.6.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7b6793eb8e6071cd11334f1b0af8dca2e662a561">
+        <dex dex="D:\MovieKun\lovii\app\build\intermediates\pre-dexed\debug\com.ogaclejapan.smarttablayout-utils-v4-1.6.0_14ad5c98f8d0c6ffdde238a94c2a8c9d2093167f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lovi Handoko\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="D:\MovieKun\lovii\app\build\intermediates\pre-dexed\debug\gson-2.3.1_9c55f64420c8fb1a7240b01443ee0b5f3a122fd9.jar" />
+    </item>
+    <item
+        jar="D:\MovieKun\lovii\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="D:\MovieKun\lovii\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_21a52e71b3d11e7f006559cc22285fc9dd95b88a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lovi Handoko\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\2.0.0-beta2\880d9e0997b2d1bfc98e0d121ced33ee5d04aac4\retrofit-2.0.0-beta2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
+        <dex dex="D:\MovieKun\lovii\app\build\intermediates\pre-dexed\debug\retrofit-2.0.0-beta2_48e89ad893472e1efaca4cfd26f88a3ccc9aa53c.jar" />
+    </item>
+    <item
+        jar="D:\MovieKun\lovii\app\build\intermediates\exploded-aar\com.github.orangegangsters\swipy\1.2.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5e920eaa6f08f1ee91f705d55226f8874187d879">
+        <dex dex="D:\MovieKun\lovii\app\build\intermediates\pre-dexed\debug\com.github.orangegangsters-swipy-1.2.2_eea9939c4075a6e006e53316b258cf26b47be370.jar" />
+    </item>
+    <item
+        jar="D:\MovieKun\lovii\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\MovieKun\lovii\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_59207a0fa6dde13c30539c36f372bae435f98cde.jar" />
+    </item>
+    <item
+        jar="D:\MovieKun\lovii\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="D:\MovieKun\lovii\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.1.1_16de5425eea7d93d68cfd67dc0f2739bd08fada4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lovi Handoko\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\MovieKun\lovii\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_bac936083be5d60465bc614d57759413a71610bf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lovi Handoko\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\MovieKun\lovii\app\build\intermediates\pre-dexed\debug\okio-1.6.0_82d70e614e2bdbdad8619143da02222270ae2169.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lovi Handoko\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\converter-gson\2.0.0-beta2\392c3d09e0f5e7087544093cc0cb23bb9c7af5fa\converter-gson-2.0.0-beta2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="392c3d09e0f5e7087544093cc0cb23bb9c7af5fa">
+        <dex dex="D:\MovieKun\lovii\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.0-beta2_9b25d898f6445b31ebf254cc6d741cf72ae1b2b4.jar" />
+    </item>
+
+</items>

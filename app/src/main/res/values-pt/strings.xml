@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Lovi Handoko</string>
+
+    <!-- TOOLBAR -->
+    <string name="search_title">Procurar</string>
+    <string name="search_hint">Procurar Titulo</string>
+    <string name="preferences">Preferências</string>
+    <string name="about">Sobre</string>
+
+    <!-- FRAGMENT PAGER ITEM ADAPTER -->
+    <string name="page_theaters">Nos Cinemas</string>
+    <string name="page_soon">A Estrear</string>
+    <string name="page_top">Mais Vistos</string>
+
+    <!-- SEARCH ACTIVITY -->
+    <string name="search_results_title">Resultados da Procura</string>
+
+    <!-- NOTIFICATIONS -->
+    <string name="movie_released">Chegou!</string>
+    <string name="offline_text">Sem ligação!</string>
+    <string name="retry_button">Tentar outra vez</string>
+
+    <!-- PROGRESS BAR -->
+    <string name="loading">A Carregar..</string>
+
+    <!-- MOVIE LIST -->
+    <string name="row_rating">Pontuação: %1$s</string>
+    <string name="row_released">Lançado: %1$s</string>
+
+    <!-- MOVIE DETAILS -->
+    <string name="follow">Seguir</string>
+    <string name="following">A Seguir</string>
+    <string name="movie_credits">Creditos</string>
+
+    <!-- TOASTS -->
+    <string name="no_connection">Sem conecção à internet</string>
+    <string name="no_longer_following">Já não estás a seguir este filme</string>
+    <string name="now_following">Estás agora a seguir este filme</string>
+
+    <!-- PREFERENCES -->
+    <string name="get_notified_title">Receber notificações?</string>
+    <string name="get_notified_summary">Receber notificações quando um filme que segue entra em exibição</string>
+
+    <string name="only_wifi_title">Usar Apenas Wifi</string>
+    <string name="only_wifi_summary">Download dos filmes apenas por wifi</string>
+
+    <string name="soon_periodicity_title">Periodicidade dos A Estrear</string>
+
+    <string name="in_theaters_periodicity_title">Periodicidade dos Em Cartaz</string>
+
+    <string name="once_a_day">Uma vez por dia</string>
+    <string name="twice_a_week">Duas vezes por semana</string>
+    <string name="once_a_week">Uma vez por semana</string>
+
+    <!-- MOVIE CREDITS -->
+    <string name="actors">Actores</string>
+    <string name="crew">Equipa Técnica</string>
+    <string name="credits">Créditos</string>
+    <string name="reference">Dados provenientes de TMDb</string>
+
+</resources>
